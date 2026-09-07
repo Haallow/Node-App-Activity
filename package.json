@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js",
+    "start:raw": "node server-raw.js",
+    "dev:raw": "node server-raw.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
